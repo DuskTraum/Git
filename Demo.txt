@@ -6,3 +6,4 @@ Second demo text
 Some text in master and demo branch. 
 Finish demo
 Apply cherry-pick
+Something terrible
