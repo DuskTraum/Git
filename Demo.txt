@@ -1,3 +1,4 @@
 Start demo
 Text message body in demo file. Master branch.
+Some text in master branch.
 Finish demo
