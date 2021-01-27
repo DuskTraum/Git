@@ -1,3 +1,0 @@
-New cd 1 
-Changed in master
-New cod32
